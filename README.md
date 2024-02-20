@@ -1,4 +1,4 @@
-# react-openlayers
+# solid-openlayers (Currently non-functioning)
 
 A minimal [React](https://facebook.github.io/react/) 
 wrapper of [OpenLayers 3+](https://openlayers.org/)
